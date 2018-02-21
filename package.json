@@ -12,7 +12,7 @@
   "version": "1.0.7",
   "description":
     "This is a simple BinaryHeap heap Implementation in nodejs, without dependencies",
-  "keywords": ["binary", "heap", "binaryheap, sorted"],
+  "keywords": ["binary", "heap", "binaryheap", "sorted"],
   "main": "binaryheap.js",
   "scripts": {
     "test": "mocha",
