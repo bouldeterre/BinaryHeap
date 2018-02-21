@@ -14,13 +14,13 @@ This is a simple BinaryHeap heap Implementation in nodejs, without dependencies
 ## 🛠️ Usage
 
 ```
-let BinaryHeap = require("./binaryHeap.js");
-let binaryHeap = new BinaryHeap(2); // limit is set to 2 elements
+let BinaryHeap = require("mybinaryheap");
 
+let binaryHeap = new BinaryHeap(2); // limit is set to 2 elements
 binaryHeap.push(2);
 binaryHeap.push(1);
 binaryHeap.push(3);
-binaryHeap.lower() // return 2
+console.log(binaryHeap.lower()); //  "2"
 ```
 
 ## ⚠️ Tests

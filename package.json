@@ -1,6 +1,8 @@
 {
   "name": "mybinaryheap",
-  "version": "1.0.1",
+  "email": "pemonides@gmail.com",
+  "url": "https://github.com/bouldeterre/myBinaryHeap",
+  "version": "1.0.5",
   "description":
     "This is a simple BinaryHeap heap Implementation in nodejs, without dependencies",
   "main": "binaryheap.js",
