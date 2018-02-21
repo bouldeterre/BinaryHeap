@@ -2,9 +2,17 @@
   "name": "mybinaryheap",
   "email": "pemonides@gmail.com",
   "url": "https://github.com/bouldeterre/myBinaryHeap",
-  "version": "1.0.5",
+  "homepage": "https://github.com/bouldeterre/myBinaryHeap",
+  "author": "Jon Schlinkert (https://github.com/bouldeterre)",
+  "repository": "bouldeterre/myBinaryHeap",
+  "bugs": {
+    "url": "https://github.com/bouldeterre/myBinaryHeap/issues"
+  },
+  "files": ["binaryheap.js"],
+  "version": "1.0.6",
   "description":
     "This is a simple BinaryHeap heap Implementation in nodejs, without dependencies",
+  "keywords": ["binary", "heap", "binaryheap, sorted"],
   "main": "binaryheap.js",
   "scripts": {
     "test": "mocha",
