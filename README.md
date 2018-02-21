@@ -15,7 +15,7 @@ This is a simple BinaryHeap heap Implementation in nodejs, without dependencies
 
 ```
 let BinaryHeap = require("./binaryHeap.js");
-let binaryHeap = new BinaryHeap(2);
+let binaryHeap = new BinaryHeap(2); // limit is set to 2 elements
 
 binaryHeap.push(2);
 binaryHeap.push(1);
