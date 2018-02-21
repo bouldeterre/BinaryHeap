@@ -23,18 +23,16 @@ binaryHeap.push(3);
 console.log(binaryHeap.lower()); //  "2"
 ```
 
-## ⚠️ Tests
+## Contributing
 
-A minimal of packages are required for running tests.
+### ⚠️ Tests
 
 ```bash
 npm install
 npm run test
 ```
 
-## 🗃️ Docs
-
-JSDoc are generated in ./doc
+### 🗃️ Docs
 
 ```bash
 npm run doc

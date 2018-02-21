@@ -1,7 +1,6 @@
 let mocha = require("mocha");
 let chai = require("chai");
 let should = require("chai").should();
-let assert = require("chai").assert;
 let describe = mocha.describe;
 let it = mocha.it;
 let BinaryHeap = require("../binaryHeap.js");

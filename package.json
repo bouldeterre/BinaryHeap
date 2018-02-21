@@ -9,7 +9,7 @@
     "url": "https://github.com/bouldeterre/myBinaryHeap/issues"
   },
   "files": ["binaryheap.js"],
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description":
     "This is a simple binary heap implementation in nodejs, without dependencies",
   "keywords": ["binary", "heap", "binaryheap", "sorted"],
