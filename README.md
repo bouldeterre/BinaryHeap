@@ -9,7 +9,7 @@ This is a simple BinaryHeap heap Implementation in nodejs, without dependencies
 
 ## 🗃️Pre-Requisites
 
-* node https://nodejs.org/en/
+* node https://nodejs.org/en
 
 ## 🛠️ Usage
 
