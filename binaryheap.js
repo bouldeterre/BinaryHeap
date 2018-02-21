@@ -62,9 +62,9 @@ class BinaryHeap {
     let left = this.left(index);
     let right = this.right(index);
     let smallest = index;
-    if (left < this.size && this.data[left] < this.data[index]) smallest = l;
+    if (left < this.size && this.data[left] < this.data[index]) smallest = left;
     if (right < this.size && this.data[right] < this.data[smallest])
-      smallest = r;
+      smallest = right;
     if (smallest != index) {
       let temp = this.data[index];
       this.data[index] = this.data[smallest];

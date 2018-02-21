@@ -40,16 +40,5 @@ describe("Launching Tests", function() {
       binaryHeap.lower().should.equal(4);
       done();
     });
-    it("Should log Element", function(done) {
-      let binaryHeap = new BinaryHeap(3);
-      binaryHeap.push(1);
-      binaryHeap.push(2);
-      binaryHeap.push(3);
-      binaryHeap.push(4);
-      binaryHeap.push(5);
-      binaryHeap.lower().should.equal(3);
-      binaryHeap.endlog();
-      done();
-    });
   });
 });
