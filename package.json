@@ -1,0 +1,19 @@
+{
+  "name": "mybinaryheap",
+  "version": "1.0.0",
+  "description":
+    "This is a simple BinaryHeap heap Implementation in nodejs, without dependencies",
+  "main": "binaryheap.js",
+  "scripts": {
+    "test": "mocha",
+    "doc": "jsdoc.cmd -d ./doc Topn.js binaryheap.js flatten.js"
+  },
+  "author": "Emonides Pierre-Emmanuel",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "lodash": "^4.17.5",
+    "mocha": "^5.0.1"
+  },
+  "dependencies": {}
+}
