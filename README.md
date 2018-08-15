@@ -1,8 +1,6 @@
 # BinaryHeap
 
-[![npm version](https://badge.fury.io/js/mybinaryheap.svg)](https://www.npmjs.com/package/mybinaryheap)
-
-[![npm version](https://img.shields.io/npm/dt/mybinaryheap.svg)](https://www.npmjs.com/package/mybinaryheap)
+[![npm version](https://badge.fury.io/js/mybinaryheap.svg)](https://www.npmjs.com/package/mybinaryheap) [![npm version](https://img.shields.io/npm/dt/mybinaryheap.svg)](https://www.npmjs.com/package/mybinaryheap)
 
 This is a simple BinaryHeap heap Implementation in nodejs, without dependencies
 
